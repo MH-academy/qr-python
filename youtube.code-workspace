@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Omni",
+    "workbench.editor.labelFormat": "short",
+    "workbench.startupEditor": "welcomePage",
+		"editor.fontSize": 17,
+		"terminal.integrated.fontSize": 16,
+	}
+}
